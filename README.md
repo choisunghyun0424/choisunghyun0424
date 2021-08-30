@@ -38,4 +38,3 @@ Develope Tools🔨:
 <code><img height="20" src="https://img.icons8.com/color/48/000000/notion--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/gitkraken.png"></code>
 </details>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choisunghyun0424)](https://github.com/anuraghazra/github-readme-stats)
