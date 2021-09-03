@@ -42,4 +42,12 @@ Develope Tools🔨:
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/gitkraken.png"></code>
 </details>
 
+---
+
+<details>
+<summary>
+SNS🍍:
+</summary>
+<br/>
 [![Instagram Badge](https://img.shields.io/badge/ermolnik-follow%20on%20Instagram-blue?style=for-the-badge&logo=Instagram)](https://www.instagram.com/choi_da__cheese/)
+</details>
