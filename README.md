@@ -12,6 +12,9 @@ I am interested in server development and I am using java language.
   ![](https://visitor-badge.glitch.me/badge?page_id=choisunghyun0424
 )
   
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=choisunghyun0424&show_icons=true&include_all_commits=true&theme=material-palenight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisunghyun&hide=r,jupyter%20notebook,c%23&count_private=true&langs_count=10&theme=material-palenight"/>
 ---
   
 <details>
