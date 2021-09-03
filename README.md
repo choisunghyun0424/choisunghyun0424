@@ -1,7 +1,7 @@
 
   ### About me👻:
 Hi🖐<br/>
-I'm I am a student studying programming.<br/>
+I'm a student studying programming.<br/>
 I am interested in server development and I am using java language.
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
