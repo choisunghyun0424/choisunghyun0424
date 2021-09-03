@@ -7,7 +7,7 @@ I am interested in server development and I am using java language.
 
 - 📝 I'm currently attending Daedeok Software Meister High School.
 - 💡  I'm backend developer and studying server
-- 🙇‍♂️ Profile Visitors Count:
+- 🙇‍♂️ Profile Visitors Count :
   
   ![](https://visitor-badge.glitch.me/badge?page_id=choisunghyun0424
 )
