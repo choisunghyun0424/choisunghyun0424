@@ -49,5 +49,5 @@ Develope Tools🔨:
 SNS🍍:
 </summary>
 <br/>
-[![Instagram Badge](https://img.shields.io/badge/ermolnik-follow%20on%20Instagram-blue?style=for-the-badge&logo=Instagram)](https://www.instagram.com/choi_da__cheese/)
+</a> <a href="https://instagram.com/fivepxint"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://https://www.instagram.com/choi_da__cheese/"
 </details>
