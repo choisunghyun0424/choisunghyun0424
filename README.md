@@ -52,4 +52,5 @@ SNS📷:
 </summary>
 <br/>
 </a> <a href="https://instagram.com/choi_da__cheese"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://https://www.instagram.com/choi_da__cheese/"
+</a> <a href="https://www.facebook.com/profile.php?id=100057890426325"> <img src="http://img.shields.io/badge/-facebook-black?style=flat&logo=Facebook&link=https://https://www.facebook.com/profile.php?id=100057890426325"                                                           
 </details>
