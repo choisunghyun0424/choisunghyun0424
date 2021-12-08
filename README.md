@@ -2,11 +2,11 @@
   ### About me👻:
 Hi🖐<br/>
 I'm a student studying programming.<br/>
-I am interested in server development and I am using java language.
+I am interested in server development and P.M.
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 - 📝 I'm currently attending Daedeok Software Meister High School.
-- 💡  I'm backend developer and studying server
+- 💡  I'm backend developer and studying server and P.M 
 - 🙇‍♂️ Profile Visitors Count :
   
   ![](https://visitor-badge.glitch.me/badge?page_id=choisunghyun0424
